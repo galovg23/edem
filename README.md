@@ -3,3 +3,5 @@ Hola! Soy Galo Valle, estudiante del máster en **Data Analytics** en EDEM, y gr
 También me pueden encontrar en LinkedIn en www.linkedin.com/in/galo-valle-garcía-41396418a
 
 Nos vemos! 
+
+Un saludo.
